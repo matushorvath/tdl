@@ -1,7 +1,7 @@
 {
-  "name": "prebuilt-tdlib",
+  "name": "prebuilt-tdlib-amazon-linux-2",
   "version": "0.0.1",
-  "description": "Prebuilt TDLib libraries",
+  "description": "Prebuilt TDLib libraries for Amazon Linux 2",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -12,7 +12,7 @@
     "index.d.ts",
     "prebuilds"
   ],
-  "author": "Bannerets <comonoid@protonmail.com>",
+  "author": "Matus Horvath <matus.horvath@gmail.com>",
   "license": "MIT",
   "keywords": [
     "telegram",
@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bannerets/tdl.git"
+    "url": "git+https://github.com/matushorvath/tdl.git"
   },
   "bugs": {
-    "url": "https://github.com/Bannerets/tdl/issues"
+    "url": "https://github.com/matushorvath/tdl/issues"
   },
-  "homepage": "https://github.com/Bannerets/tdl/tree/master/packages/prebuilt-tdlib#readme"
+  "homepage": "https://github.com/matushorvath/tdl/tree/master/packages/prebuilt-tdlib#readme"
 }
